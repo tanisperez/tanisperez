@@ -5,7 +5,7 @@
 * 🔭 I'm a software engineer at [**Mango**](https://mango.com/) with over 7 years of experience.
 * 🌱 Currently learning Kotlin and microservices architectures.
 * 🚀 Building [**rekomind**](https://rekomind.com/) with [**Avelino**](https://github.com/avelinorios) and [**Pablo**](https://github.com/priveiro). Come visit us and take a look!
-* ✏️ Sometimes I write articles in [my blog](https://tanis.codes).
+* ✏️ Sometimes I write articles in [**my blog**](https://tanis.codes).
 
 #### 🔗  Get in touch
 
