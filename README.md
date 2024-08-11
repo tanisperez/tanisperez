@@ -2,8 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tanisperez.tanisperez)
 
-* 🔭 I'm a software engineer at [**//ABANCA**](https://abanca.com/) with over 8 years of experience.
+* 🔭 I'm a software engineer at [**//ABANCA**](https://abanca.com/) with 9 years of experience.
 * 🌱 Currently learning Kotlin and microservices architectures.
+* ✏️ Sometimes I write articles in [**my blog**](https://tanis.codes).
 
 #### 🔗  Get in touch
 
