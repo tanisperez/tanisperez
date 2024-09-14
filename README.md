@@ -7,9 +7,9 @@
 #### 🔗  Get in touch
 
 <a href="https://www.linkedin.com/in/pereznartallo">
-  <img align="left" alt="Tanis's LinkedIn" width="22px" src="icons/linkedin-logo.jpg" />
+  <img alt="Tanis's LinkedIn" width="22px" src="icons/linkedin-logo.jpg" />
 </a>
 
 <a href="https://x.com/TanisCodes">
-  <img align="left" alt="Tanis's X" width="22px" src="icons/x-logo.png" />
+  <img alt="Tanis's X" width="22px" src="icons/x-logo.png" />
 </a>
